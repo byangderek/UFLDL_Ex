@@ -23,25 +23,17 @@ Exs
 7. Stacked autoencoders
 8. Linear decoder
 
-Listed in the order of finishing time.
+PS. Listed in the order of finishing time.
 
 
 
 Notes
 ========
-1. Some datasets needed are not included for the sake of size. 
+1. Some datasets needed are not included for the sake of size. You can download them yourself on the tutorial website. (Some are included in the exercise .zip file downloaded from the website)
 
-You can download them yourself on the tutorial website.
+2. The code style is bad, but should be right :). So this may just serve as a reference when you are going through the tutorials.
 
-(Some are included in the exercise .zip file downloaded from the website)
-
-2. The code style is bad, but should be right :). So this may just 
-
-serve as a reference when you are going through the tutorials.
-
-3. The code is written with help of many references. If you have any questions 
-
-or find any mistakes, feel free to contact me.
+3. The code is written with help of many references. If you have any questions or find any mistakes, feel free to contact me.
 
 4. Thank Andrew Ng so much for the wonderful tutorial!
 
